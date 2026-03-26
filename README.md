@@ -51,6 +51,7 @@
 </p>
 
 ---
+<img src="https://github-readme-stats.vercel.app/api?username=Kavin-Palanisamy&show_icons=true&theme=tokyonight&token=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">
 
 ## 📈 Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavin-Palanisamy&theme=tokyo-night">
