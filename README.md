@@ -29,29 +29,27 @@
 - 🌐 IoT (ESP8266, ESP32)
 - 🔌 Arduino & Embedded Systems
 - ⚙️ Sensors & Automation
-- 🔧 AI agent & personal assistant
+- 🤖 AI Agent & Personal Assistant
 
 ---
 
 ## 🔥 Projects
 - 🚀 IoT Virtual Fencing System  
-- 💡 Sunlight Tracking System  
+- ☀️ Sunlight Tracking System  
 - 🧠 Fall Detection System  
-- 🤖 Jarvis AI Assistant
-- 💻 Theft Detection System Using Python
+- 🤖 Jarvis AI Assistant  
+- 💻 Theft Detection System Using Python  
 
 ---
 
-
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavin-Palanisamy&show_icons=true&theme=tokyonight&cache_seconds=86400">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kavin-Palanisamy&show_icons=true&theme=tokyonight">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavin-Palanisamy&theme=tokyonight">
 </p>
 
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=Kavin-Palanisamy&show_icons=true&theme=tokyonight&token=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">
 
 ## 📈 Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavin-Palanisamy&theme=tokyo-night">
@@ -67,7 +65,7 @@
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/kavinp0204">
+  <a href="https://linkedin.com/in/kavinp0204">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:kavin020407@gmail.com">
@@ -79,7 +77,7 @@
 
 ## 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kavin-PalanisamyE&color=blue">
+  <img src="https://komarev.com/ghpvc/?username=Kavin-Palanisamy&color=blue">
 </p>
 
 ---
