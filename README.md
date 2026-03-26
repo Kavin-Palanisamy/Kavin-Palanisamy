@@ -1,13 +1,26 @@
 <h1 align="center">Hi 👋, I'm Kavin</h1>
-<h3 align="center">EEE Student | IoT & Python Developer 🚀</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=IoT+Developer;Python+Programmer;EEE+Engineer;Building+Smart+Systems🚀&center=true&width=500&height=45">
+</p>
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m working on **IoT & Automation Projects**
-- 🌱 Currently learning **AI + IoT Integration**
-- 💡 Passionate about building **real-world solutions**
-- 🎯 Goal: Get placed in a top MNC
+- 🔭 Working on **IoT & Automation Projects**
+- 🌱 Learning **AI + IoT Integration**
+- 💡 Passionate about **real-world problem solving**
+- 🎯 Goal: **MNC Placement**
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Arduino-green?style=for-the-badge&logo=arduino">
+  <img src="https://img.shields.io/badge/ESP8266-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/IoT-red?style=for-the-badge">
+</p>
 
 ---
 
@@ -30,34 +43,43 @@
 ---
 
 ## 📊 GitHub Stats
-![Kavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavin-Palanisamy&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavin-Palanisamy&show_icons=true&theme=tokyonight">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavin-Palanisamy&theme=tokyonight">
+</p>
+
+---
+
+## 📈 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavin-Palanisamy&theme=tokyo-night">
+
+---
+
+## 🏆 Achievements
+- ✅ Built real-time IoT systems  
+- ✅ Developed automation projects  
+- 🚀 Continuous learner  
 
 ---
 
 ## 🔗 Connect With Me
-- 📧 Email: kavin020407@gmail.com 
-- 💼 LinkedIn: www.linkedin.com/in/kavinp0204 
+<p align="center">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/kavinp0204">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:kavin020407@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 ---
-![Visitor Count](https://komarev.com/ghpvc/?username=Kavin-Palanisamy)
-![Python](https://img.shields.io/badge/Python-blue)
-![IoT](https://img.shields.io/badge/IoT-green)
-![Arduino](https://img.shields.io/badge/Arduino-orange)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kavin-Palanisamy)
 
-⭐ *“Building smart systems that solve real-world problems”*## Hi there 👋
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kavin-PalanisamyE&color=blue">
+</p>
 
-<!--
-**Kavin-Palanisamy/Kavin-Palanisamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *"Building Smart Systems for a Smarter Future"*
