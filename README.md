@@ -39,6 +39,11 @@
 - 💼 LinkedIn: www.linkedin.com/in/kavinp0204 
 
 ---
+![Visitor Count](https://komarev.com/ghpvc/?username=Kavin-Palanisamy)
+![Python](https://img.shields.io/badge/Python-blue)
+![IoT](https://img.shields.io/badge/IoT-green)
+![Arduino](https://img.shields.io/badge/Arduino-orange)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kavin-Palanisamy)
 
 ⭐ *“Building smart systems that solve real-world problems”*## Hi there 👋
 
