@@ -16,15 +16,16 @@
 - 🌐 IoT (ESP8266, ESP32)
 - 🔌 Arduino & Embedded Systems
 - ⚙️ Sensors & Automation
-- 🔧 Git & GitHub
+- 🔧 AI agent & personal assistant
 
 ---
 
 ## 🔥 Projects
 - 🚀 IoT Virtual Fencing System  
-- 💡 Automatic Room Light (PIR Sensor)  
+- 💡 Sunlight Tracking System  
 - 🧠 Fall Detection System  
-- 🤖 Jarvis AI Assistant  
+- 🤖 Jarvis AI Assistant
+- 💻 Theft Detection System Using Python
 
 ---
 
