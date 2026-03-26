@@ -29,13 +29,13 @@
 ---
 
 ## 📊 GitHub Stats
-![Kavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Kavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavin-Palanisamy&show_icons=true)
 
 ---
 
 ## 🔗 Connect With Me
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: your-link  
+- 📧 Email: kavin020407@gmail.com 
+- 💼 LinkedIn: www.linkedin.com/in/kavinp0204 
 
 ---
 
